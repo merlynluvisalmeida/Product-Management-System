@@ -4,7 +4,7 @@
 
 [output 3_ViewProduct]->(https://github.com/merlynluvisalmeida/Product-Management-System/blob/master/ProductManagementWebApp/output3%20view%20all%20products.png)
 
-[output 4_EditProduct]->()
+[output 4_EditProduct]->(https://github.com/merlynluvisalmeida/Product-Management-System/blob/master/ProductManagementWebApp/output4%20editproduct.png)
 
 [output 5_deleteproduct]->()
 
