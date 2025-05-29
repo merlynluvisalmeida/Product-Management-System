@@ -8,7 +8,7 @@
 
 [output 5_deleteproduct]->(https://github.com/merlynluvisalmeida/Product-Management-System/blob/master/ProductManagementWebApp/oytput5%20delete%20product.png)
 
-[output 6_updatedproducts]->()
+[output 6_updatedproducts]->(https://github.com/merlynluvisalmeida/Product-Management-System/blob/master/ProductManagementWebApp/output6%20updated%20products.png)
 
 [output 7_generationOfreports]->()
 
