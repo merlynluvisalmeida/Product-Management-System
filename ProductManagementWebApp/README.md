@@ -10,7 +10,7 @@
 
 [output 6_updatedproducts]->(https://github.com/merlynluvisalmeida/Product-Management-System/blob/master/ProductManagementWebApp/output6%20updated%20products.png)
 
-[output 7_generationOfreports]->()
+[output 7_generationOfreports]->(https://github.com/merlynluvisalmeida/Product-Management-System/blob/master/ProductManagementWebApp/output%207%20generation%20of%20report.png)
 
 [output 8_report1]->()
 
