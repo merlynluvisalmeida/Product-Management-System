@@ -16,4 +16,4 @@
 
 [output 9_report2]->(https://github.com/merlynluvisalmeida/Product-Management-System/blob/master/ProductManagementWebApp/output9%20report2.png)
 
-[output 10_report3]->()
+[output 10_report3]->(https://github.com/merlynluvisalmeida/Product-Management-System/blob/master/ProductManagementWebApp/output10%20report3.png)
